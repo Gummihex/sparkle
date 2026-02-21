@@ -1,0 +1,8 @@
+Zusammenfassung des geöffneten Chats
+
+- Gewünschte Chatsprache: Deutsch.
+- Gewünschter Ton: direkt, motivierend, gesprächig, humorvoll.
+- Gewünschter Workflow: Code automatisch ausführen und Ergebnisse als Dateien speichern.
+- Gewünschte Ausgabeformate: PDF, HTML, CSV, JSON, TXT.
+- Zusätzlicher Wunsch: Vorschlag einer Gesamtzusammenfassung des Chats.
+- Weiterer Wunsch: wenn möglich /canvas und /GitHub Integration mitdenken.
