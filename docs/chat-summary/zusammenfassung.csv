@@ -1,0 +1,6 @@
+key,value
+chat_language,de
+style_preferences,"gespraechig;direkt;motivierend;humorvoll"
+workflow_preferences,"code_automatisch_ausfuehren;ergebnisse_als_dateien_speichern"
+requested_formats,"pdf;html;csv;json;txt"
+additional_requests,"zusammenfassung_des_gesamten_chats;integration_canvas_und_github_wo_moeglich"
